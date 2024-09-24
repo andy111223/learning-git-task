@@ -1,3 +1,5 @@
+# Zadanie moduł 3.2
+
 shoppingList = {
     "grocery store":['eggs','tomato','butter'],
     "convenience store":['newspaper','Coca Cola','chewing gum'],
